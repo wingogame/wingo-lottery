@@ -1,0 +1,53 @@
+{
+  "name": "wingo-lottery",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "license": "MIT",
+  "author": "WE Game",
+  "keywords": [
+    "Ethereum",
+    "Web3 Game",
+    "Games",
+    "Gambling",
+    "Casino",
+    "Sport Bet",
+    "Slot",
+    "Wingo game",
+    "Lottery",
+    "K3 Game",
+    "Hash Game",
+    "Aviator Game",
+    "Tower game",
+    "Limbo game",
+    "Coinflip game",
+    "Mines game",
+    "Roulette game",
+    "Horse Race",
+    "Rummy",
+    "Chess",
+    "印度盘口",
+    "印度包网",
+    "印度彩票",
+    "电子老虎机",
+    "海外盘口",
+    "飞行员游戏",
+    "二元期权",
+    "快三",
+    "棋牌游戏"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0",
+    "vue-tsc": "^2.0.6"
+  }
+}
