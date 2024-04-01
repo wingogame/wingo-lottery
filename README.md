@@ -1,7 +1,7 @@
 # Online-Casino
-Start our own Online Casino Link! - [CLICK HERE!](https://wegamein.com)
+线上Demo! - [CLICK HERE!](https://wegamein.com)
 
-**TO GET Contact ** [CLICK HERE!](https://t.me/bbqbbql)
+**联系方式 ** [CLICK HERE!](https://t.me/bbqbbql)
 
 ## SCREENSHOTS
 
