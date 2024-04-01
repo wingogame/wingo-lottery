@@ -1,9 +1,17 @@
-# Vue 3 + TypeScript + Vite
+# Online-Casino
+Start our own Online Casino Link! - [CLICK HERE!](https://wegamein.com)
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+**TO GET Contact ** [CLICK HERE!](https://t.me/bbqbbql)
 
-## Recommended Setup
+## SCREENSHOTS
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
-
-- Use [vue-tsc](https://github.com/vuejs/language-tools/tree/master/packages/tsc) for performing the same type checking from the command line, or for generating d.ts files for SFCs.
+![photo_2024-04-01-23.25.17.jpeg](screenshot%2Fphoto_2024-04-01-23.25.17.jpeg)
+![photo_2024-04-01-23.24.57.jpeg](screenshot%2Fphoto_2024-04-01-23.24.57.jpeg)
+![photo_2024-04-01-23.25.19.jpeg](screenshot%2Fphoto_2024-04-01-23.25.19.jpeg)
+![photo_2024-04-01-23.25.09.jpeg](screenshot%2Fphoto_2024-04-01-23.25.09.jpeg)
+![photo_2024-04-01-23.25.04.jpeg](screenshot%2Fphoto_2024-04-01-23.25.04.jpeg)
+![photo_2024-04-01-23.25.07.jpeg](screenshot%2Fphoto_2024-04-01-23.25.07.jpeg)
+![photo_2024-04-01-23.25.11.jpeg](screenshot%2Fphoto_2024-04-01-23.25.11.jpeg)
+![photo_2024-04-01-23.25.14.jpeg](screenshot%2Fphoto_2024-04-01-23.25.14.jpeg)
+![photo_2024-04-01-23.25.02.jpeg](screenshot%2Fphoto_2024-04-01-23.25.02.jpeg)
+![photo_2024-04-01-23.25.21.jpeg](screenshot%2Fphoto_2024-04-01-23.25.21.jpeg)
